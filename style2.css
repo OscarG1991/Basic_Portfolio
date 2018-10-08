@@ -1,0 +1,72 @@
+  * {
+      box-sizing: border-box;
+      text-align: center;
+  }
+
+  * {
+      margin: 0;
+      padding: 0;
+  }
+
+  header {
+      background-color: white;
+      color: black;
+      padding: 15px 15px 0 15px;
+      width: 100%;
+  }
+
+  .first {
+      background-color: white;
+      margin-left: 47px;
+      margin-right: 46px;
+  }
+
+  .second {
+      background-color: #4aaaa5;
+      margin: 0;
+      width: 33.333%;
+  }
+
+
+
+  nav ul {
+      margin: 0;
+      float: right;
+      padding: 0 0 0 15px;
+  }
+
+  nav ul li {
+      background: white;
+      color: black;
+      display: inline-block;
+      list-style: none;
+      padding: 5px 15px;
+      width: 33.333%
+  }
+
+  img {
+      float: left;
+      height: 200px;
+      width: 200px;
+      border: 1px;
+  }
+
+  body {
+      margin: 0;
+      padding: 0;
+      text-align: center;
+  }
+
+  .main {
+      width: 960px;
+      background-color: white;
+      margin: 0 auto;
+      text-align: left;
+  }
+
+
+  body {
+      background-image: url(assets/images/gravel.png);
+      height: 100%;
+
+  }
